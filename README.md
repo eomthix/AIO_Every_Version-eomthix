@@ -1,8 +1,14 @@
 # AIO_Every_Version-eomthix
 
 ❓️How to use this:
-If you want to use this script to hack HCR2 then I recommend watching this video made by pr0stozak:
+If you want to use this script to hack HCR2 then I recommend watching this video made by pr0stozak: https://drive.google.com/file/d/1kdqGx6-plWaWAAEKvo8YKcn6WhdApALt/view?usp=drivesdk
 
+❗️Needed Files:
+- Multi App Ultra:
+- LD Player:
+- Game Gurdian:
+- HCR2:
+- MT Manager:
 
 ❓ What is this?
 This is a script made by eomthix aka erik. It features a lot of different functions when it comes to hacking Hill Climb Racing 2!
