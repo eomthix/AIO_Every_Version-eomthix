@@ -4,19 +4,20 @@
 If you want to use this script to hack HCR2 then I recommend watching this video made by pr0stozak: https://drive.google.com/file/d/1kdqGx6-plWaWAAEKvo8YKcn6WhdApALt/view?usp=drivesdk
 
 ❗️Needed Files:
-- Multi App Ultra: https://www.mediafire.com/file/ho8rhxaglem7anf/Milti_App_Ultra_%2528PASSWORD_zak%2529.rar/file
-- LD Player: https://www.ldplayer.net
+- Multi App Ultra (Phone): https://www.mediafire.com/file/ho8rhxaglem7anf/Milti_App_Ultra_%2528PASSWORD_zak%2529.rar/file
+- LD Player (PC): https://www.ldplayer.net
 - Game Gurdian: https://www.mediafire.com/file/6b0cv6ym0xlb31h/zGG-v4.0.apk/file
 - HCR2: cuming soon...
 - MT Manager: https://www.mediafire.com/file/cpreijegk0k456e/mt-manager-2-26-2.apk/file
 
 ❓ What is this?
-This is a script made by eomthix aka erik. It features a lot of different functions when it comes to hacking Hill Climb Racing 2!
+This is a script made by eomthix aka erik. It features over 100 different functions when it comes to hacking Hill Climb Racing 2!
 
 ❓ Which Versions are supported?
 - 1.73.3
 - 1.73.5
 - 1.73.6
+- every Upcomming Version
 
 ❓️How?
 
@@ -38,7 +39,7 @@ _________________________________________________________________
 ❓ Which Devices can run this?
 You must have either a ARM V8 Device or a x86_64 emulator. If you don't have any of these most script functions will not work for you! You can use Virtual Spaces like Multi App Ultra or LD Player to get access to these devices if you don't have them.
 
-Also make sure that your device has a working C Alloc Range with Bytes otherwise many functions will not be working, since most are made for C Alloc.
+Also make sure that your device has a working C Alloc Range with Bytes otherwise many functions will not be working, since most are made for C Alloc. 
 
 ❓ Which functions work on both Emulator and Phone?
 All Functions should be working on Emulator and Phone except Fake Unban. This Function only work on a ARMV8 Phone!
