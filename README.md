@@ -4,11 +4,11 @@
 If you want to use this script to hack HCR2 then I recommend watching this video made by pr0stozak: https://drive.google.com/file/d/1kdqGx6-plWaWAAEKvo8YKcn6WhdApALt/view?usp=drivesdk
 
 ❗️Needed Files:
-- Multi App Ultra:
-- LD Player:
-- Game Gurdian:
-- HCR2:
-- MT Manager:
+- Multi App Ultra: https://www.mediafire.com/file/ho8rhxaglem7anf/Milti_App_Ultra_%2528PASSWORD_zak%2529.rar/file
+- LD Player: https://www.ldplayer.net
+- Game Gurdian: https://www.mediafire.com/file/6b0cv6ym0xlb31h/zGG-v4.0.apk/file
+- HCR2: cuming soon...
+- MT Manager: https://www.mediafire.com/file/cpreijegk0k456e/mt-manager-2-26-2.apk/file
 
 ❓ What is this?
 This is a script made by eomthix aka erik. It features a lot of different functions when it comes to hacking Hill Climb Racing 2!
@@ -30,7 +30,6 @@ _________________________________________________________________
 
 🎮 Discord: eomthix
 ✈️ Telegram: t.me/eomthix
-📺 Youtube: https://www.youtube.com/@erik_eomthix
 🌐 Discord Server: https://discord.gg/Zryfyd4s8z
 👥 Telegram Group: t.me/hcr2ggz
 📧 Email: Askmeforquestions@outlook.de
