@@ -7,7 +7,7 @@ If you want to use this script to hack HCR2 then I recommend watching this video
 - Multi App Ultra (Phone): https://www.mediafire.com/file/ho8rhxaglem7anf/Milti_App_Ultra_%2528PASSWORD_zak%2529.rar/file
 - LD Player (PC): https://www.ldplayer.net
 - Game Gurdian: https://www.mediafire.com/file/6b0cv6ym0xlb31h/zGG-v4.0.apk/file
-- HCR2: cuming soon...
+- HCR2: https://github.com/eomthix/Every-HCR2-Version
 - MT Manager: https://www.mediafire.com/file/cpreijegk0k456e/mt-manager-2-26-2.apk/file
 
 ❓ What is this?
